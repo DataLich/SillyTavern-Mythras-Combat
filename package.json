@@ -1,0 +1,9 @@
+{
+  "name": "sillytavern-mythras-combat-companion",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check": "node --check index.js"
+  }
+}
